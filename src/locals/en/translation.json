@@ -1,0 +1,7 @@
+{
+  "items": [
+    { "title": "Item 1", "text": "First item text" },
+    { "title": "Item 2", "text": "Second item text" },
+    { "title": "Item 3", "text": "Third item text" }
+  ]
+}
